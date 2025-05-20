@@ -1,7 +1,3 @@
-# CassOnKube
-Here’s a rewritten, clearer and more beginner-friendly `README.md` for the **CassOnKube** project:
-
----
 
 # 🚀 CassOnKube: Cassandra on Kubernetes (Minikube)
 
